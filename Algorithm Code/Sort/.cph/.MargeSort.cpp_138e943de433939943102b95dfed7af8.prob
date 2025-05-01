@@ -1,0 +1,1 @@
+{"name":"Local: MargeSort","url":"d:\\0.CSE\\04.Fourth\\git\\Algorithm Code\\Sort\\MargeSort.cpp","tests":[{"id":1746099352097,"input":"5\n1 3 5 2 4","output":""},{"id":1746100824472,"input":"","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\0.CSE\\04.Fourth\\git\\Algorithm Code\\Sort\\MargeSort.cpp","group":"local","local":true}

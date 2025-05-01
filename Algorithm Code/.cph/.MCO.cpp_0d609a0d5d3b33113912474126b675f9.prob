@@ -1,0 +1,1 @@
+{"name":"Local: MCO","url":"d:\\0.CSE\\04.Fourth\\git\\Algorithm Code\\MCO.cpp","tests":[{"id":1745999043669,"input":"6\n30 35 15 5 10 20 25","output":""},{"id":1745999963542,"input":"4\n7 4 5 3 3","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\0.CSE\\04.Fourth\\git\\Algorithm Code\\MCO.cpp","group":"local","local":true}
